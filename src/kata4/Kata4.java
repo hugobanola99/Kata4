@@ -7,7 +7,7 @@ package kata4;
 
 import kata4.view.MailHistogramBuilder;
 import kata4.view.HistogramDisplay;
-import persistence.MailListReader;
+import kata4.persistence.MailListReader;
 import kata4.model.Mail;
 import kata4.model.Histogram;
 import java.util.List;

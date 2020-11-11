@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package persistence;
+package kata4.persistence;
 
 import kata4.model.Mail;
 import java.io.BufferedReader;
